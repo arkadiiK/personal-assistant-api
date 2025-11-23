@@ -1,0 +1,17 @@
+# Python & Django
+*.pyc
+__pycache__
+db.sqlite3
+.venv
+venv
+env
+
+# Environment Variables (Ніколи не заливай це!)
+.env
+
+# IDE
+.idea
+.vscode
+
+# Docker
+postgres_data
